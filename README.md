@@ -1,3 +1,6 @@
+This project was developed during the Indigenous Australian Datathon 2023. It is not a completed project, merely a reference to the work achieved during this session. 
+Also note, this is not an official AWS project. It is a project built using AWS, by a varied team of attendees
+
 # How to Setup
 ## [Maxus AI](https://www.maxusai.com/)
 1. Register an account and setup a project
